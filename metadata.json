@@ -1,0 +1,6 @@
+{
+  "name": "TUXI - AI-First Global Marketplace & Delivery Platform",
+  "description": "Worldwide marketplace and delivery platform combining TUXI Eats, TUXI Shop, and TUXI Courier with AI rapid onboarding, geospatial territory management, and AI Command Center.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
